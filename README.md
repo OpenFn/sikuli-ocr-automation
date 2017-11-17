@@ -1,0 +1,1 @@
+# sikuli-ocr-automation
