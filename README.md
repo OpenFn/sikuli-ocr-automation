@@ -7,7 +7,7 @@ Run:
 `apt install xvfb`  
 `apt install libopencv-dev`  
 `apt install tesseract-ocr`  
-`apt-get install default-jre`  
+`apt-get install openjdk-8-jre-headless`  
 `apt install xinit`  
-`mkdir sikuli && cd sikuli`    
-`wget https://launchpad.net/sikuli/sikulix/1.1.2/+download/sikulixsetup-1.1.2.jar`    
+`mkdir sikuli && cd sikuli`  
+`wget https://launchpad.net/sikuli/sikulix/1.1.2/+download/sikulixsetup-1.1.2.jar`  
